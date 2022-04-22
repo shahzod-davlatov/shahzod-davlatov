@@ -9,4 +9,9 @@ Skills: REACT / SVELTE / TS / HTML / CSS
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
