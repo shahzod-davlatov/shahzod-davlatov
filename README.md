@@ -7,3 +7,6 @@ Is committed to continuous learning and development of professional skills
 Skills: REACT / SVELTE / TS / HTML / CSS
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
