@@ -11,7 +11,9 @@ Skills: REACT / SVELTE / TS / HTML / CSS
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   11 mins         █████████████████████████   100.00 %
+From: 23 March 2022 - To: 22 April 2022
+
+JavaScript                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
