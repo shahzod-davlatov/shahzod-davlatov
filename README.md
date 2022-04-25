@@ -22,9 +22,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 23 April 2022
+From: 25 March 2022 - To: 24 April 2022
 
-JavaScript                   █████████████████████████   100.00 %
+JavaScript                   █████████████████████████   99.71 %
+Markdown                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
