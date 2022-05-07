@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2022 - To: 05 May 2022
+From: 06 April 2022 - To: 06 May 2022
 
 JavaScript                   ██████████████████████▒░░   88.95 %
 HTML                         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
