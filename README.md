@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 November 2022 - To: 05 December 2022
+From: 06 November 2022 - To: 06 December 2022
 
 TypeScript                                 ███████████████████▒░░░░░   76.99 %
 JavaScript                                 ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
