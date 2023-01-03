@@ -22,11 +22,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 31 December 2022
+From: 03 December 2022 - To: 02 January 2023
 
-TypeScript                                 █████████████████████▒░░░   85.81 %
-YAML                                       ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Other                                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other                                      █████████████████░░░░░░░░   68.57 %
 ```
 
 <!--END_SECTION:waka-->
