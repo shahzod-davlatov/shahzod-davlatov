@@ -22,9 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 02 January 2023
-
-Other                                      █████████████████░░░░░░░░   68.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
