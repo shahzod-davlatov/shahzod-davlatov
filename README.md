@@ -1,11 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Turret+Road&height=30&lines=HI!+I%60m+Frontend+Developer)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **TypeScript**
-
-- 📝 I regularly write articles on [https://ru.hexlet.io/u/shahzod418/blog_posts](https://ru.hexlet.io/u/shahzod418/blog_posts)
-
-- 💬 Ask me about **React, Svelte**
-
 - 📫 How to reach me **shahzod@davlatov.space**
 
 - 📄 Know about my experiences [https://www.davlatov.space/](https://www.davlatov.space/)
