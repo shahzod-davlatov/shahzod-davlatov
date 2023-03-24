@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14F73B&width=325&height=40&lines=Hi!+I%60m+Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14F73B&width=325&height=30&lines=Hi!+I%60m+Fullstack+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -61,7 +61,3 @@
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 [<img alt="HabrCareer" src="https://img.shields.io/badge/Habr_Career-65A3BE?style=for-the-badge&logo=Habr&logoColor=white" />](https://career.habr.com/shahzod_davlatov)
-
----
-### 😹 Attention, Joke!
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
