@@ -1,52 +1,198 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14F73B&width=325&height=30&lines=Hi!+I%60m+Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14F73B&width=325&height=30&lines=Hi!+I%60m+Frontend+Developer" alt="Typing SVG" />
 </p>
 
 ---
-### 🧑🏻‍💻 Working with:
+<h2 align="left" id="shahzod418-stack">🧑🏻‍💻 Tech stack</h2>
 
-#### 🖥️ Frontend
+> General
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![Sass](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="html" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#shahzod418-stack" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="css" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
+      </a>
+      <br>Yarn
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>NPM
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#shahzod418-stack" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr> 
+</table>
 
-#### 👾 Backend
+> Frontend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="react" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" width="36" height="36" alt="mobx" />
+      </a>
+      <br>MobX
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="mui" />
+      </a>
+      <br>MUI
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="vue" />
+      </a>
+      <br>Vue
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="pinia" />
+      </a>
+      <br>Pinia
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="graphql" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" width="36" height="36" alt="apollo" />
+      </a>
+      <br>Apollo
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" width="36" height="36" alt="vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="36" height="36" alt="webpack" />
+      </a>
+      <br>Webpack
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="tailwindcss" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr>
+</table>
 
-#### 💼 Other
+> Testing
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90"> 
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" alt="jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#shahzod418-stack">
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
+      </a>
+      <br>Playwright
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="36" height="36" alt="storybook" />
+      </a>
+      <br>Storybook
+    </td>
+  </tr> 
+</table>
+
+> Code quality
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="36" height="36" alt="eslint" />
+      </a>
+      <br>ESLint
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" width="36" height="36" alt="prettier" />
+      </a>
+      <br>Prettier
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/stylelint.svg" width="36" height="36" alt="stylelint" />
+      </a>
+      <br>Stylelint
+    </td>
+  </tr>
+</table>
 
 ### 🤝 How to reach me:
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/shahzod418)
-<a href="mailto:shahzod@davlatov.space">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="mailto:shahzod@davlatov.space"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [<img alt="HabrCareer" src="https://img.shields.io/badge/Habr_Career-65A3BE?style=for-the-badge&logo=Habr&logoColor=white" />](https://career.habr.com/shahzod_davlatov)
