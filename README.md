@@ -33,6 +33,8 @@
       </a>
       <br>CSS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110" height="90">
       <a href="#shahzod418-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="git" />
@@ -57,7 +59,7 @@
       </a>
       <br>Docker
     </td>
-  </tr> 
+  </tr>
 </table>
 
 > Frontend
@@ -72,6 +74,12 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="vue" />
+      </a>
+      <br>Vue
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="redux" />
       </a>
       <br>Redux
@@ -82,28 +90,14 @@
       </a>
       <br>MobX
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#shahzod418-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="mui" />
-      </a>
-      <br>MUI
-    </td>
   </tr>
   <tr>
-    <td align="center" width="110" height="90">
-      <a href="#shahzod418-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="vue" />
-      </a>
-      <br>Vue
-    </td>
     <td align="center" width="110" height="90">
       <a href="#shahzod418-stack">
         <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="pinia" />
       </a>
       <br>Pinia
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110" height="90">
       <a href="#shahzod418-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="graphql" />
@@ -115,6 +109,12 @@
         <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" width="36" height="36" alt="apollo" />
       </a>
       <br>Apollo
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="36" height="36" alt="rxjs" />
+      </a>
+      <br>RxJS
     </td>
   </tr>
   <tr>
@@ -130,13 +130,17 @@
       </a>
       <br>Webpack
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110" height="90">
       <a href="#shahzod418-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="tailwindcss" />
       </a>
       <br>Tailwind
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod418-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="mui" />
+      </a>
+      <br>MUI
     </td>
   </tr>
 </table>
