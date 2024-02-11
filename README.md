@@ -132,7 +132,7 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#shahzod418-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="tailwindcss" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="tailwindcss" />
       </a>
       <br>Tailwind
     </td>
