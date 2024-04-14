@@ -202,6 +202,12 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#shahzod-davlatov-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="36" height="36" alt="vitest" />
+      </a>
+      <br>Vitest
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#shahzod-davlatov-stack">
         <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
       </a>
       <br>Playwright
@@ -236,6 +242,12 @@
         <img src="https://cdn.worldvectorlogo.com/logos/stylelint.svg" width="36" height="36" alt="stylelint" />
       </a>
       <br>Stylelint
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#shahzod-davlatov-stack">
+        <img src="https://raw.githubusercontent.com/oxc-project/oxc-assets/main/logo-round-min.png" width="36" height="36" alt="oxlint" />
+      </a>
+      <br>Oxlint
     </td>
   </tr>
 </table>
